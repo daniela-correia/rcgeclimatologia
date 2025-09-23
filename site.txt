@@ -1,5 +1,0 @@
-https://www.kaggle.com/datasets/abhinand05/daily-sun-spot-data-1818-to-2019?resource=download
-
-https://cosmicrays.oulu.fi/
-
-livro sobre correlação: Estatística por Schaum e Murray R.Spiegel 3ª edição; cap. 14 teoria da correlação pág.365

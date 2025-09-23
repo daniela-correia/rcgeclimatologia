@@ -1,0 +1,7 @@
+Manchas solares:  https://www.kaggle.com/datasets/abhinand05/daily-sun-spot-data-1818-to-2019?resource=download [Acessado em: 05/09/2025]
+
+Raios cósmicos:  https://cosmicrays.oulu.fi/ [Acessado em: 05/09/2025]
+
+Atmosfera:   http://professor.ufabc.edu.br/~leigui/pesquisa/arquivos/progs/initC++/  [Acessado em: 14/04/2024]
+
+Livro sobre correlação: Estatística por Schaum e Murray R.Spiegel 3ª edição; cap. 14 teoria da correlação pág.365
