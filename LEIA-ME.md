@@ -7,9 +7,15 @@ Como elas funcionam?
 As macros estão em linguagen C++ e foram desenvolvidas para serem utilizadas com o ROOT do CERN através do prompt de comando.
 
 Para que elas servem? 
-* Produção de gráficos simples;
-* produção multigráficos (úteis para sobreposições de vários gráficos com diferentes bases de dados ou sobreposição de diferentes curvas mudando único parâmetro) 
-* Cálculo do coeficiente de Pearson para análises de correlações estatísticas.
+1) Produção de gráficos simples:
+   1.1) graph_from_data.cpp ->  relacionar temperatura, pressão, densidade e altitude atmosférica.
+   1.2) macroCosmic.c -> relaciona data fracionária com contagem de raios cósmicos
+   1.3) macroSunspots.c -> relaciona data fracionária com contagem de manchas solares
+2) produção multigráficos (úteis para sobreposições de vários gráficos com diferentes bases de dados ou sobreposição de diferentes curvas mudando único parâmetro):
+   2.1) mg.cpp -> sobreposição de curvas da temperatura virtual atmosférica, mudando o parâmetro de densidade de vapor.
+   2.2) mgcosmicsunspots.cpp -> sobreposição de diferentes gráficos: raios cósmicos + manchas solares
+3) macropearson.c -> Cálculo do coeficiente de Pearson para análises de correlação estatística.
+
 
 Como utilizar o Root no Windows?
 1) Baixe o Root do Cern no seu computador;
