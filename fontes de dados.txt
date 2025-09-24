@@ -2,6 +2,9 @@ Manchas solares:  https://www.kaggle.com/datasets/abhinand05/daily-sun-spot-data
 
 Raios cósmicos:  https://cosmicrays.oulu.fi/ [Acessado em: 05/09/2025]
 
+tratamento de dados, conversão de médias diárias do sol em médias mensais: https://docs.google.com/spreadsheets/d/1c4FCZej3ncKo9qbCJ_NzIklXQUwXr5Mms6jS6C6E0Sk/edit?gid=453026044#gid=453026044
+
 Atmosfera:   http://professor.ufabc.edu.br/~leigui/pesquisa/arquivos/progs/initC++/  [Acessado em: 14/04/2024]
 
 Livro sobre correlação: Estatística por Schaum e Murray R.Spiegel 3ª edição; cap. 14 teoria da correlação pág.365
+
